@@ -1,2 +1,2 @@
 # aryalecannon.com
-repo for website
+This is the Repo for aryalecannon.com

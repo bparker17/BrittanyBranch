@@ -1,2 +1,2 @@
-# BrittanyBranch
-for website
+# aryalecannon.com
+repo for website
